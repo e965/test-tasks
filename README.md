@@ -23,6 +23,6 @@
 #### Комитет (май 2019)
 
 * Вакансия: Frontend-разработчик
-* Стек: Pug, [Stylus](https://stylus-lang.com), Vanilla JS (собирается Gulp'ом)
+* Стек (клиент): Pug, [Stylus](https://stylus-lang.com), Vanilla JS (собирается Gulp'ом)
 * Репозиторий: https://github.com/e965/cmtt-test-quiz
 
