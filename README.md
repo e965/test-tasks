@@ -1,5 +1,11 @@
 ### Мои тестовые задания, которые я делал в различные компании
 
+#### Xsolla (август 2021)
+
+* Вакансия: Front-end разработчик
+* Стек (клиент): SCSS, TypeScript, React, Redux (Redux Toolkit), [Vite](https://vitejs.dev)
+* Репозиторий: https://github.com/e965/xsolla-test-task
+
 #### Предприятие В-1336 (январь 2020)
 
 * Вакансия: Front-end разработчик
