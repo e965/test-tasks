@@ -6,6 +6,12 @@
 * Стек: SCSS, TypeScript, React, Mobx
 * CodeSandbox: https://codesandbox.io/s/megafon-test-task-xymmw
 
+#### Xsolla (август 2021)
+
+* Вакансия: Front-end разработчик
+* Стек (клиент): SCSS, TypeScript, React, Redux (Redux Toolkit), [Vite](https://vitejs.dev)
+* Репозиторий: https://github.com/e965/xsolla-test-task
+
 #### Предприятие В-1336 (январь 2020)
 
 * Вакансия: Front-end разработчик
