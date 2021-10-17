@@ -1,15 +1,15 @@
 ### Мои тестовые задания, которые я делал в различные компании
 
-#### Xsolla (август 2021)
+#### Мегафон (октябрь 2021)
 
 * Вакансия: Front-end разработчик
-* Стек (клиент): SCSS, TypeScript, React, Redux (Redux Toolkit), [Vite](https://vitejs.dev)
-* Репозиторий: https://github.com/e965/xsolla-test-task
+* Стек: SCSS, TypeScript, React, Mobx
+* CodeSandbox: https://codesandbox.io/s/megafon-test-task-xymmw
 
 #### Предприятие В-1336 (январь 2020)
 
 * Вакансия: Front-end разработчик
-* Стек (клиент): SCSS, Vanilla JS, React (Create React App), Redux
+* Стек: SCSS, Vanilla JS, React (Create React App), Redux
 * Репозиторий: https://github.com/e965/v1336-test-task
 
 #### Solar Studio (декабрь 2019)
@@ -29,6 +29,6 @@
 #### Комитет (май 2019)
 
 * Вакансия: Frontend-разработчик
-* Стек (клиент): Pug, [Stylus](https://stylus-lang.com), Vanilla JS (собирается Gulp'ом)
+* Стек: Pug, [Stylus](https://stylus-lang.com), Vanilla JS (собирается Gulp'ом)
 * Репозиторий: https://github.com/e965/cmtt-test-quiz
 
